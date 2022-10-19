@@ -8,7 +8,7 @@
 <h3>Bio</h3><br>
 - 🔭 I’m currently working **Co-Founder|CTO 9tech**
 
-- 🌱 Learning all About **Emerging Technologies**
+- 🌱 Learning all About Emerging Technologies, majorly **Javascript**
 
 - 🤝 I’m looking to Contributing to **Javascript Base Open source Projects**
 
