@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React Js, Next Js, GraphQL, Tailwind, Node Js, AWS Beanstalk, Lambda, Express Js, MongoDB, SQL server, PostgreSQL, Restful and socket APIs**
 
-- 📫 How to reach me **syedsalman627@gmail.com**
+- 📫 How to reach me **syedsalman637@gmail.com**
 
 <br>
 <h3 align="left">My Current Stack:</h3>
