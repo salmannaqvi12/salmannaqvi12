@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
 <h3>Bio</h3><br>
-- 🔭 I’m currently working **Co-Founder|CTO 9tech**
+- 🔭 I’m currently working **Senior Principal Software Engineer**
 
 - 🌱 Learning all About Emerging Technologies, majorly **Javascript**
 
