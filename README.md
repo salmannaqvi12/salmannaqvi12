@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Syed Salman Naqvi</h1>
-<h3 align="left">A passionate Software Engineer from Lahore,Pakistan</h3>
+<h3 align="left">A passionate Full Stack Software Engineer with 8+ Years of Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmannaqvi12&label=Profile%20views&color=0e75b6&style=flat" alt="salmannaqvi12" /> </p>
 
